@@ -16,4 +16,4 @@ Our project is composed of the following
 
 The link to the google drive folder containing these files anf folders is given below:
 https://drive.google.com/drive/folders/1WZoErC98BrqPzHQxeniz_lGq6RDMQEDw?usp=sharing
-(accesible with FAST-NU account)
+
